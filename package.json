@@ -1,0 +1,28 @@
+{
+  "name": "naming-language",
+  "version": "0.0.1",
+  "description": "A utility for randomly generating a realistic naming language for fictional fantasy place names",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmitrydwhite/naming-language.git"
+  },
+  "keywords": [
+    "random",
+    "fantasy",
+    "naming",
+    "language"
+  ],
+  "author": "mewo2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmitrydwhite/naming-language/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
