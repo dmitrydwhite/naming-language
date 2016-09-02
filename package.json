@@ -1,8 +1,8 @@
 {
   "name": "naming-language",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A utility for randomly generating a realistic naming language for fictional fantasy place names",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
   },
